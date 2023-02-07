@@ -1,3 +1,4 @@
+# ln -s path/to/dotfiles/helix-config.toml ~/.config/helix/config.toml
 theme = "onedark"
 
 [editor]
