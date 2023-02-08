@@ -1,8 +1,10 @@
 # ln -s path/to/dotfiles/helix-config.toml ~/.config/helix/config.toml
-theme = "onedark"
+theme = "hex_toxic"
 
 [editor]
 line-number = "relative"
+color-modes = true
+auto-save = true
 
 [editor.cursor-shape]
 insert = "bar"
@@ -11,3 +13,4 @@ select = "underline"
 
 [keys.insert]
 j = {k = "normal_mode"}
+
