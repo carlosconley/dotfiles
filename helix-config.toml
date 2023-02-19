@@ -1,10 +1,11 @@
 # ln -s path/to/dotfiles/helix-config.toml ~/.config/helix/config.toml
-theme = "hex_toxic"
+#theme = "hex_toxic"
 
 [editor]
 line-number = "relative"
 color-modes = true
 auto-save = true
+true-color = true
 
 [editor.cursor-shape]
 insert = "bar"
