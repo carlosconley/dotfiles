@@ -1,5 +1,5 @@
 # ln -s path/to/dotfiles/helix-config.toml ~/.config/helix/config.toml
-#theme = "hex_toxic"
+theme = "papercolor-dark"
 
 [editor]
 line-number = "relative"
